@@ -56,11 +56,9 @@ Commande : `show ip interface brief`
 
 3. Afficher la **liste des interfaces inactives (DOWN)**  
 Commande : `show ip interface brief`
-* **Résultat**
+* **Résultat** : Il n’y a aucune interface en état down, donc toutes les interfaces sont UP sur ce routeur. 
   
 ![Texte alternatif](screenshots/interfaces_up_down_ok.png)
-
- * Il n’y a aucune interface en état down, donc toutes les interfaces sont UP sur ce routeur. 
 ---
 
 4. Afficher le **nombre d’interfaces FastEthernet** et **GigabitEthernet**  
