@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README
 # Projet DevNet – Automatisation réseau avec Netmiko
 
 ## 👤 Auteurs
