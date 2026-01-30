@@ -44,18 +44,21 @@ Le programme permet de :
 Commandes utilisées :  
    - `show running-config`  
 * **Résultat**
+  
 ![Texte alternatif](screenshots/router_Info_ok.png) 
 ---
 
 2. Afficher la **liste des interfaces actives (UP)**  
 Commande : `show ip interface brief`
 * **Résultat**
+  
 ![Texte alternatif](screenshots/interfaces_up_down_ok.png) 
 ---
 
 3. Afficher la **liste des interfaces inactives (DOWN)**  
 Commande : `show ip interface brief`
-* **Résultat** 
+* **Résultat**
+  
 ![Texte alternatif](screenshots/interfaces_up_down_ok.png)
 
  * Il n’y a aucune interface en état down, donc toutes les interfaces sont UP sur ce routeur. 
@@ -64,12 +67,14 @@ Commande : `show ip interface brief`
 4. Afficher le **nombre d’interfaces FastEthernet** et **GigabitEthernet**  
 Commande : `show ip interface brief`
 * **Résultat**
+  
 ![Texte alternatif](screenshots/statistiques_Interfaces_ok.png) 
 ---
 
 5. Afficher la **liste des réseaux accessibles via le routeur**  
 Commande : `show ip route`
 * **Résultat**
+  
 ![Texte alternatif](screenshots/table_routage_ok.png) 
 ---
 ## Conclusion
