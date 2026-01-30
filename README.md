@@ -39,7 +39,7 @@ Netmiko-Project/
 ## Test (résultats obtenus)
 Le programme permet de :
 
-1. Afficher le **nom du routeur**, la **version du système d’exploitation (OS)** et le **modèle du routeur**  
+**1.** Afficher le **nom du routeur**, la **version du système d’exploitation (OS)** et le **modèle du routeur**  
 Commandes utilisées :  
    - `show running-config`  
 * **Résultat**
@@ -47,28 +47,28 @@ Commandes utilisées :
 ![Texte alternatif](screenshots/router_Info_ok.png) 
 ---
 
-2. Afficher la **liste des interfaces actives (UP)**  
+**2.** Afficher la **liste des interfaces actives (UP)**  
 Commande : `show ip interface brief`
 * **Résultat**
   
 ![Texte alternatif](screenshots/interfaces_up_down_ok.png) 
 ---
 
-3. Afficher la **liste des interfaces inactives (DOWN)**  
+**3.** Afficher la **liste des interfaces inactives (DOWN)**  
 Commande : `show ip interface brief`
 * **Résultat** : Il n’y a aucune interface en état down, donc toutes les interfaces sont UP sur ce routeur. 
   
 ![Texte alternatif](screenshots/interfaces_up_down_ok.png)
 ---
 
-4. Afficher le **nombre d’interfaces FastEthernet** et **GigabitEthernet**  
+**4.** Afficher le **nombre d’interfaces FastEthernet** et **GigabitEthernet**  
 Commande : `show ip interface brief`
 * **Résultat**
   
 ![Texte alternatif](screenshots/statistiques_Interfaces_ok.png) 
 ---
 
-5. Afficher la **liste des réseaux accessibles via le routeur**  
+**5.** Afficher la **liste des réseaux accessibles via le routeur**  
 Commande : `show ip route`
 * **Résultat**
   
