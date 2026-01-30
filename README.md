@@ -17,7 +17,6 @@ Le projet est réalisé dans un cadre **académique et pédagogique**, pour intr
 - **Netmiko**
 - **Tabulate**
 - **Cisco IOS XR**
-- **Cisco DevNet Sandbox**
 - **SSH**
 ---
 ## 🖧 Environnement réseau
