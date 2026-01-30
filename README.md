@@ -25,6 +25,7 @@ Le projet est réalisé dans un cadre **académique et pédagogique**, pour intr
 - Système : IOS XR
 - Accès : Cisco DevNet Sandbox
 - Méthode de connexion : SSH
+![Texte alternatif](screenshots/environnement_sendbox_ok.png)  
 ---
 ## 📂 Structure du projet
 ```text
