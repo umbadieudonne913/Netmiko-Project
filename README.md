@@ -42,7 +42,6 @@ Le programme permet de :
 1. Afficher le **nom du routeur**, la **version du système d’exploitation (OS)** et le **modèle du routeur**  
 Commandes utilisées :  
    - `show running-config`  
-   - `show version`
 * **Résultat**
 ![Texte alternatif](screenshots/router_Info_ok.png) 
 ---
