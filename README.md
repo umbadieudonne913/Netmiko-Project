@@ -11,14 +11,13 @@ Ce projet DevNet consiste à développer un programme en **Python** permettant d
 
 Le projet est réalisé dans un cadre **académique et pédagogique**, pour introduire les concepts de base de l’**automatisation réseau** et du **NetDevOps**.
 
----
 ## 🧰 Technologies utilisées
 - **Python 3**
 - **Netmiko**
 - **Tabulate**
 - **Cisco IOS XR**
 - **SSH**
----
+
 ## 🖧 Environnement réseau
 - Équipement : Routeur Cisco
 - Système : IOS XR
