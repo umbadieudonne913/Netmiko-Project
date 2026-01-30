@@ -36,7 +36,7 @@ Netmiko-Project/
 ├── README.md                 # Documentation du projet
 ```
 --- 
-## Test
+## Test (résultats obtenus)
 Le programme permet de :
 
 1. Afficher le **nom du routeur**, la **version du système d’exploitation (OS)** et le **modèle du routeur**  
@@ -72,5 +72,8 @@ Le programme permet de :
 ---
 ## Conclusion
 
+Ce projet DevNet a permis de mettre en œuvre l’automatisation réseau à l’aide de Python et de la librairie Netmiko, en automatisant l’exécution de commandes sur un routeur Cisco via SSH. Le programme développé facilite la collecte d’informations essentielles telles que l’état et les statistiques des interfaces, les caractéristiques du routeur et la table de routage.
+
+Ce travail a renforcé les compétences en programmation Python, en administration réseau Cisco et en DevNet, tout en mettant en évidence l’intérêt de l’automatisation pour améliorer l’efficacité et la fiabilité de la gestion des infrastructures réseau. Il constitue une base solide pour des projets d’automatisation plus avancés.
 
 
