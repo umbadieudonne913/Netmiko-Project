@@ -1,3 +1,4 @@
+<<<<<<< HEAD:README
 # Projet DevNet – Automatisation réseau avec Netmiko
 
 ## 👤 Auteurs
@@ -20,7 +21,6 @@ Le projet est réalisé dans un cadre **académique et pédagogique**, pour intr
 - **Cisco DevNet Sandbox**
 - **SSH**
 ---
----
 ## 🖧 Environnement réseau
 - Équipement : Routeur Cisco
 - Système : IOS XR
@@ -37,7 +37,7 @@ Netmiko-Project/
 ├── README.md                 # Documentation du projet
 ```
 --- 
-## 🎯 Objectifs du projet
+## Test
 Le programme permet de :
 
 1. Afficher le **nom du routeur**, la **version du système d’exploitation (OS)** et le **modèle du routeur**  
@@ -45,52 +45,33 @@ Le programme permet de :
    - `show running-config`  
    - `show version`
 ➜ Voici le resultat :
-
+![Texte alternatif](screenshots/router_Info_ok.png) 
 ---
-
 
 2. Afficher la **liste des interfaces actives (UP)**  
    ➜ Commande : `show ip interface brief`
-➜ Voici le resultat : 
+➜ Voici le resultat :
+![Texte alternatif](screenshots/interfaces_up_down_ok.png) 
 ---
-
 
 3. Afficher la **liste des interfaces inactives (DOWN)**  
    ➜ Commande : `show ip interface brief`
-
 ➜ Voici le resultat : 
+![Texte alternatif](screenshots/interfaces_up_down_ok.png) 
 ---
 
 4. Afficher le **nombre d’interfaces FastEthernet** et **GigabitEthernet**  
    ➜ Commande : `show ip interface brief`
-➜ Voici le resultat : 
+➜ Voici le resultat :
+![Texte alternatif](screenshots/statistiques_Interfaces_ok.png) 
 ---
 
 5. Afficher la **liste des réseaux accessibles via le routeur**  
    ➜ Commande : `show ip route`
-
-
-
-
-
-
-
-<<<<<<< HEAD:README
-# Projet : Automatisation d’une Infrastructure Réseau Multi-Services avec Ansible
-
-## 👤 Auteurs
-* **Travail réalisé par** : Dieudonné UMBA  et Sharon-rose MUKUNDI 
-* **Filière** : DevOps et Sécurité informatique
-* **Promotion** : Master 2
-
+   ➜ Voici le resultat :
+![Texte alternatif](screenshots/table_routage_ok.png) 
 ---
-
----
- ### 1. Inventaire et Connectivité
-* **Description** : Un inventaire Ansible a été créé pour regrouper les équipements réseau par groupes (routers et switches) La connectivité SSH est testée sur tous les équipements réseau.
-Playbook utilisé : **ping.yaml**
-* **Résultat**
-![Texte alternatif](screenshots/ping_ok.png)
+## Conclusion
 
 
 
